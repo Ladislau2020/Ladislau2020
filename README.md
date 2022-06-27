@@ -2,6 +2,7 @@
 
 
 # Hi there , I am Ladislau 
+Data analyst | Web designer | UI/UX designer | Python programmer
 
 
 
