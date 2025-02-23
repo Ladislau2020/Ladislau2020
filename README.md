@@ -2,7 +2,7 @@
 
 
 # Hi there , I am Ladislau 
-Data analyst | Web designer | UI/UX designer | Python programmer
+Data analyst | Aspiring Data Scientist | SQL | Python | PowerBI
 
 
 
